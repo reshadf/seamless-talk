@@ -10,4 +10,4 @@ NOTE: You'll need Chrome 22 or newer ([Chrome Canary](https://tools.google.com/d
 
 http://creativecommons.org/licenses/by/2.0/
 
-(Basically, just say you got it here and we're cool.)
+https://github.com/benvinegar/seamless-talk
